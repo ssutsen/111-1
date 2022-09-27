@@ -16,7 +16,7 @@
 <h3>作業區</h3>
 <ol>
   <li><a href="https://ssutsen.github.io/web/mypage%20web1/">我的網頁</a></li>
-  <li>作業一<a href="https://www.youtube.com/watch?v=-AhAJhvz884">YT連結</a></li>
+  <li>作業一–<a href="https://www.youtube.com/watch?v=-AhAJhvz884">YT連結</a></li>
   <li></li>
 </ol>
 
