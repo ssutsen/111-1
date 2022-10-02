@@ -6,18 +6,20 @@
 
 <hr></hr>
 
-<h3>筆記區</h3>
-<ul>
-  <li>markdown <a href="https://www.w3schools.com/html/default.asp">語法</a>參考</li>
-  <li></li>
-  <li></li>
-</ul>
-
 <h3>作業區</h3>
-<ol>
+<ul>
   <li><a href="https://ssutsen.github.io/web/mypage%20web1/">我的網頁</a></li>
   <li>作業一:<a href="https://www.youtube.com/watch?v=-AhAJhvz884">YT連結</a></li>
   <li></li>
-</ol>
+</ul>
+
+<h3>筆記區</h3>
+<ul>
+  <li>markdown <a href="https://www.w3schools.com/html/default.asp">語法</a>參考</li>
+  <li><a href="https://developer.mozilla.org/zh-TW/docs/Web/HTTP/Status">HTTP 狀態碼</a></li>
+  <li></li>
+</ul>
+
+
 
 <h3>專題區</h3>
