@@ -11,6 +11,7 @@
   <li><a href="https://ssutsen.github.io/web/mypage%20web1/">我的網頁</a></li>
   <li>作業一:<a href="https://www.youtube.com/watch?v=-AhAJhvz884">YT連結</a></li>
   <li>作業二:<a href="https://www.youtube.com/watch?v=SN3skY4I-_g">YT連結</li>
+  <li>作業三:<a href="https://youtu.be/LQUkkcwTGPU">YT連結(S3)、<a href="https://youtu.be/DvsoVboB8Ok">YT連結(ES2)</li>
 </ul>
 
 <h3>筆記區</h3>
